@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Modified class async (params:type) => {
     Intl=1
     
@@ -7,6 +7,11 @@ Modified class async (params:type) => {
 
 
 //Modified class testqa
+
+// Modified class
+// file edited by danuja 
+// Modified class testqa
+
 //Hello guys - from Afkar
 
 
@@ -20,3 +25,4 @@ Modified class async (params:type) => {
 //Hello World - :) 
 
 
+//testQQQAA
