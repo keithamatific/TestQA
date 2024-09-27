@@ -15,19 +15,15 @@ testqaa
 640bfe1becd619b84d24bfdf851f93bd5712b2ad
 //testQQQAA
 
+//රට අනුරට
 
 
-
-// Malsha
+// Malsha Test 2
 //testQQQAA
 
 
-<<<<<<< HEAD
-//testQQQAA
-=======
+<<<<<<<<< Temporary merge branch 1
 //testQQQAA
 
-
-//Hello World - :) 
-
->>>>>>> 0299ae20b569116121e5778991b3c76ef8f98425
+hello
+//testQa
