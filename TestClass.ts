@@ -25,3 +25,6 @@
 =========
 //testQQQAA
 >>>>>>>>> Temporary merge branch 2
+
+hello getComputedStyle
+//testqa
